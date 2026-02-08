@@ -1,6 +1,6 @@
 # Third-Impact Trigger
 
-<video src="assets/ani.mov" controls autoplay loop muted></video>
+<video src="https://github.com/ralph-loop/third-impact-trigger/blob/master/assets/ani.mov" controls autoplay loop muted></video>
 
 ### Just copy and paste your terminal below
 
